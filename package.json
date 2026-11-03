@@ -1,0 +1,16 @@
+{
+  "name": "tollgate-landing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A landing page template for a metered billing product, illustrated with animated Illos assets.",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "scripts": {
+    "dev": "vite --port 4875 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview --port 4875 --strictPort"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
